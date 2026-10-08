@@ -1,0 +1,21 @@
+# Segredos e sessões
+.env
+.env.*
+chrome_profile/
+
+# Dados e saídas
+documentos/
+saida/
+downloads_temp*/
+temp/
+tmp/
+bkp/
+*.xlsx
+*.xls
+*.csv
+
+# Ambiente
+venv/
+.venv/
+__pycache__/
+.ipynb_checkpoints/
